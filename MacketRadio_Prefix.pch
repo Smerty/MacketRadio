@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MacketRadio' target in the 'MacketRadio' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
